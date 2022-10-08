@@ -405,6 +405,17 @@ img {
   fill: var(--brand-color);
 }
 
+.callback-wrap {
+  position: relative;
+}
+
+.callback-icon {
+  position: absolute;
+  left: 12px;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
 /* стиль секции features */
 
 .features.section {
