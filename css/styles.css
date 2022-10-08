@@ -373,6 +373,15 @@ img {
   font-weight: 700;
 }
 
+.callback-label {
+  font-size: 12px;
+  line-height: 1.7;
+  letter-spacing: 0.01em;
+  color: var(--small-text);
+  display: block;
+  margin-bottom: 4px;
+}
+
 /* стиль секции features */
 
 .features.section {
