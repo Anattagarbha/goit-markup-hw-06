@@ -416,6 +416,10 @@ img {
   transform: translateY(-50%);
 }
 
+.callback-wrap {
+  margin-bottom: 10px;
+}
+
 /* стиль секции features */
 
 .features.section {
