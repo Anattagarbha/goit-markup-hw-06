@@ -397,6 +397,10 @@ img {
   transition-timing-function: var(--trans-timing);
 }
 
+.callback-input:focus {
+  border-color: var(--brand-color);
+}
+
 .callback-input:focus + .callback-icon {
   fill: var(--brand-color);
 }
