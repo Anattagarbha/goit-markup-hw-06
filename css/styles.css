@@ -459,6 +459,11 @@ img {
   transition: background-color 250ms var(--trans-timing);
 }
 
+.check-icon {
+  fill: transparent;
+  transition: fill 250ms var(--trans-timing);
+}
+
 /* стиль секции features */
 
 .features.section {
