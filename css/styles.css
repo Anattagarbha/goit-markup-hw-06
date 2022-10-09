@@ -469,6 +469,10 @@ img {
   border: none;
 }
 
+.agree-checkbox:checked + .checkbox-label .check-icon {
+  fill: var(--mr-white);
+}
+
 /* стиль секции features */
 
 .features.section {
