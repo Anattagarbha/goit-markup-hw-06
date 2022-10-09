@@ -435,6 +435,10 @@ img {
   resize: none;
 }
 
+.comment-label {
+  margin-bottom: 20px;
+}
+
 .checkbox-wrap {
   margin-bottom: 30px;
 }
