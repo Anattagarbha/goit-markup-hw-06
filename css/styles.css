@@ -380,6 +380,7 @@ img {
   color: var(--small-text);
   display: block;
   margin-bottom: 4px;
+  text-align: initial;
 }
 
 .callback-input {
