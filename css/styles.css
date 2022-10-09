@@ -383,6 +383,11 @@ img {
   text-align: initial;
 }
 
+.callback-label span {
+  display: block;
+  margin-bottom: 4px;
+}
+
 .callback-input {
   width: 100%;
   height: 40px;
