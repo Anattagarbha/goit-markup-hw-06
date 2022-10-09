@@ -477,6 +477,12 @@ img {
   fill: var(--mr-white);
 }
 
+.agreement-link {
+  color: var(--brand-color);
+  text-decoration-line: underline;
+  margin-left: 5px;
+}
+
 /* стиль секции features */
 
 .features.section {
