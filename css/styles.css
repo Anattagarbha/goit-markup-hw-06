@@ -435,6 +435,10 @@ img {
   resize: none;
 }
 
+.checkbox-input {
+  margin-bottom: 30px;
+}
+
 /* стиль секции features */
 
 .features.section {
