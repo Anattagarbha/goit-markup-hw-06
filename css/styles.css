@@ -464,6 +464,11 @@ img {
   transition: fill 250ms var(--trans-timing);
 }
 
+.agree-checkbox:checked + .checkbox-label span {
+  background-color: var(--brand-color);
+  border: none;
+}
+
 /* стиль секции features */
 
 .features.section {
