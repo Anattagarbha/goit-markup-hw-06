@@ -435,7 +435,7 @@ img {
   resize: none;
 }
 
-.checkbox-input {
+.checkbox-wrap {
   margin-bottom: 30px;
 }
 
@@ -464,12 +464,12 @@ img {
   transition: fill 250ms var(--trans-timing);
 }
 
-.agree-checkbox:checked + .checkbox-label span {
+.checkbox-input:checked + .checkbox-label span {
   background-color: var(--brand-color);
   border: none;
 }
 
-.agree-checkbox:checked + .checkbox-label .check-icon {
+.checkbox-input:checked + .checkbox-label .check-icon {
   fill: var(--mr-white);
 }
 
