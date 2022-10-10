@@ -799,6 +799,16 @@ img {
   gap: 12px;
 }
 
+.signup-title {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: var(--mr-white);
+  margin-bottom: 20px;
+}
+
 .signup-input {
   width: 358px;
   color: rgba(255, 255, 255, 0.6);
@@ -823,6 +833,10 @@ img {
   display: flex;
   align-items: center;
   gap: 10px;
+}
+
+.signup-icon {
+  fill: var(--mr-white);
 }
 
 /* страница portfolio */
