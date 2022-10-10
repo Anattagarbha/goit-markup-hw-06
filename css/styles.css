@@ -819,6 +819,12 @@ img {
   border-color: var(--brand-color);
 }
 
+.signup-button {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
 /* страница portfolio */
 
 .portfolio-headline {
