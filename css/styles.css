@@ -786,6 +786,19 @@ img {
   background-color: var(--brand-color);
 }
 
+/* signup form */
+
+.signup {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 93px;
+}
+
+.signup-wrap {
+  display: flex;
+  gap: 12px;
+}
+
 /* страница portfolio */
 
 .portfolio-headline {
