@@ -722,6 +722,8 @@ img {
   font-style: normal;
   line-height: 1.7;
   font-size: 14px;
+  display: inline-block;
+  min-width: 231px;
 }
 
 .address-item > .address-link:hover,
