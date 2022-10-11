@@ -490,6 +490,12 @@ img {
   margin-left: 5px;
 }
 
+.callback-button {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 /* стиль секции features */
 
 .features.section {
